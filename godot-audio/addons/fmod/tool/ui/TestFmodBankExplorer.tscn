@@ -1,6 +1,7 @@
 [gd_scene load_steps=2 format=3 uid="uid://f4i35731qm63"]
 
-[ext_resource type="PackedScene" uid="uid://nr38urn226al" path="res://addons/fmod/tool/ui/FmodBankExplorer.tscn" id="1_0ul6h"]
+[ext_resource type="PackedScene" uid="uid://nr38urn226al" path="res://addon/fmod/tool/ui/FmodBankExplorer.tscn" id="1_0ul6h"]
+
 
 [node name="TestFmodBankExplorer" type="Node2D"]
 
